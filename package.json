@@ -1,0 +1,16 @@
+{
+  "name": "car",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://nodejs.org/\">\r     <img\r       alt=\"Node.js\"\r       src=\"https://nodejs.org/static/images/logo-light.svg\"\r       width=\"400\"\r     />\r   </a>\r </p>",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "npm": "^6.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Chris",
+  "license": "ISC"
+}
